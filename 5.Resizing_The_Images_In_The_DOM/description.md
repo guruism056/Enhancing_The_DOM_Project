@@ -1,0 +1,2 @@
+* Before adding the image to the overlay we resize the image according to the window height and width.
+* Note that we can get the image width and height only after its loaded so we write our code for resizing in the "load" event listener.
